@@ -1,0 +1,3 @@
+# Exclude Terraform provider binaries
+.terraform
+*.tfstate
